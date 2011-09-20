@@ -1,0 +1,5 @@
+c:\users\freddy\documents\visual studio 2010\Projects\RazorHolaMundo\RazorHolaMundo\bin\RazorHolaMundo.dll
+c:\users\freddy\documents\visual studio 2010\Projects\RazorHolaMundo\RazorHolaMundo\bin\RazorHolaMundo.pdb
+c:\users\freddy\documents\visual studio 2010\Projects\RazorHolaMundo\RazorHolaMundo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2010\Projects\RazorHolaMundo\RazorHolaMundo\obj\Debug\RazorHolaMundo.dll
+c:\users\freddy\documents\visual studio 2010\Projects\RazorHolaMundo\RazorHolaMundo\obj\Debug\RazorHolaMundo.pdb
